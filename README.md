@@ -2,10 +2,10 @@
 Amazing Loader With TailwindCSS
 
 # Usage
-1. To Implement (HTML & CSS), Follow The Following Path:
+1. To Run (HTML & CSS), Follow The Following Path:
     => Pure/PureLoader.html
    
-2. To Implement (HTML & Tailwind), Follow The Following Path:
+2. To Run (HTML & Tailwind), Follow The Following Path:
     => Tailwind/TailwindLoader.html
 
 I hope you enjoy this project❤️
